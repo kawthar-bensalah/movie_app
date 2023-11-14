@@ -1,7 +1,4 @@
- link : 
-
----------------------------------------------------------------------------------------------------------------------
-
+![alt text](https://github.com/kawthar-bensalah/movie_app/blob/87445d222fcdb34d05e4a049b0ad352d98e7b028/1.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
